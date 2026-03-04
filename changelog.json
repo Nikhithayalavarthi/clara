@@ -1,0 +1,14 @@
+{
+    "version_from": "v1",
+    "version_to": "v2",
+    "changes": {
+        "business_hours.start": [
+            "8 AM",
+            "9 AM"
+        ],
+        "business_hours.end": [
+            "6 PM",
+            "5 PM"
+        ]
+    }
+}
